@@ -1,0 +1,5 @@
+numpy==1.21.4
+pickle-mixin==1.0.2
+streamlit==1.2.0
+streamlit-options-menu==1.0.1
+protobut==3.20.1
